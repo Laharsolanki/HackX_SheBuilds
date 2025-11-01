@@ -52,6 +52,7 @@ Urban areas often face communication gaps between citizens and municipal authori
 ## 🧭 Folder Structure
 ```
 HackX_SheBuilds
+├──assets
 ├──data(Sample)
 ├──src/
 |   ├── admin/ # Admin pages
