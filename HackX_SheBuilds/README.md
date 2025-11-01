@@ -85,6 +85,30 @@ code .
 ### 3️⃣ Run locally
 Simply open index.html in your browser — no dependencies required.
 
+---
+
+## 📸 Screenshots
+
+### 1. Role Selection Page
+![Role Selection](assets/role.png)
+
+### 2. Admin Login & Signup Page
+![Admin Signup](assets/admin_signup.png)
+
+### 3. Admin Dashboard
+![Admin Dashboard](assets/admin_dashboard.png)
+
+### 4. User Home Page
+![User Home](assets/user_home.png)
+
+### 5. Report Issue Page
+![Report Issue](assets/user_report.png)
+
+### 6. Track Your Report Page
+![Track Report](assets/user_track.png)
+
+---
+
 ### 📈 Future Enhancements
 - Integrate backend (Node.js + Express + MongoDB)
 - AI-based image classification for complaint auto-tagging
