@@ -1,1 +1,1 @@
-No Backend Dependencies
+No Backend Dependencies or storage requirements.

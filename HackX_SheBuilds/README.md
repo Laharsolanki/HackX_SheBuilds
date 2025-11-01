@@ -1,7 +1,7 @@
 # HackX_SheBuilds
 # 🌆 NagarUjjwal – Crowdsourced Civic Issue Reporting System  
 
-**Live Demo:** [hackx-shebuilds.vercel.app](https://hackx-shebuilds.vercel.app)  
+**Live Demo:** [hackx-shebuilds.vercel.app](https://hackx-shebuilds-nagarujjwal.vercel.app)  
 
 ---
 
