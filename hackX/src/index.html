@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NagarUjjwal | Choose Role</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #f2e4cf;
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .role-box {
+      background-color: #c59772;
+      padding: 40px 50px;
+      border-radius: 20px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+      width: 90%;
+      max-width: 450px;
+      text-align: center;
+      color: #fff;
+      margin-bottom: 25px; /* spacing between box and footer */
+    }
+
+    .logo {
+      width: 90px;
+      height: 90px;
+      margin-bottom: 10px;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 26px;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+
+    p {
+      color: #fdfcf8;
+      font-size: 15px;
+      margin-bottom: 25px;
+    }
+
+    .buttons {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .btn {
+      background-color: #fff;
+      color: #5a3b1a;
+      border: none;
+      padding: 12px 20px;
+      border-radius: 8px;
+      font-size: 16px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s ease;
+    }
+
+    .btn:hover {
+      background-color: #f4dcb4;
+      transform: scale(1.03);
+    }
+
+    footer {
+      text-align: center;
+      font-size: 13px;
+      color: #3a2b1e;
+    }
+
+    @media (max-width: 600px) {
+      .role-box {
+        width: 85%;
+        padding: 30px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="role-box">
+    <h1>NagarUjjwal</h1>
+    <p>Select your role to continue</p>
+
+    <div class="buttons">
+      <button class="btn" onclick="window.location.href='./user/user_login.html'">Login as User</button>
+      <button class="btn" onclick="window.location.href='./admin/admin_login.html'">Login as Admin</button>
+    </div>
+  </div>
+
+  <footer>
+    © 2025 NagarUjjwal | Team SheBuilds | U.V. Patel College of Engineering
+  </footer>
+
+</body>
+</html>
