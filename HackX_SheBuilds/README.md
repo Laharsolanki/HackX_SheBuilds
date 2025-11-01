@@ -50,14 +50,15 @@ Urban areas often face communication gaps between citizens and municipal authori
 ---
 
 ## 🧭 Folder Structure
+```
 src/
-├── admin/ # Admin pages <br/>
-├── user/ # User pages  <br/>
-├── images/ # Logos and assets <br/>
-├── index.html # Role selection / main entry <br/>
-├── css/ # Global and page styles <br/>
-├── js/ # Frontend logic scripts <br/>
-
+├── admin/ # Admin pages
+├── user/ # User pages
+├── images/ # Logos and assets
+├── index.html # Role selection / main entry
+├── css/ # Global and page styles
+├── js/ # Frontend logic scripts
+```
 
 ---
 
