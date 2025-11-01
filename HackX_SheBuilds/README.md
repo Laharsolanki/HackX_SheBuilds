@@ -51,13 +51,21 @@ Urban areas often face communication gaps between citizens and municipal authori
 
 ## 🧭 Folder Structure
 ```
-src/
-├── admin/ # Admin pages
-├── user/ # User pages
-├── images/ # Logos and assets
-├── index.html # Role selection / main entry
-├── css/ # Global and page styles
-├── js/ # Frontend logic scripts
+HackX_SheBuilds
+├──src/
+|   ├── admin/ # Admin pages
+|   ├── user/ # User pages
+|   ├── images/ # Logos and assets
+|   ├── index.html # Role selection / main entry
+|   ├── css/ # Global and page styles
+|   ├── js/ # Frontend logic scripts
+├──README.md
+|
+|
+|
+|
+
+
 ```
 
 ---
@@ -78,15 +86,20 @@ code .
 ### 3️⃣ Run locally
 Simply open index.html in your browser — no dependencies required.
 
-📈 Future Enhancements
+### 📈 Future Enhancements
 - Integrate backend (Node.js + Express + MongoDB)
 - AI-based image classification for complaint auto-tagging
 - Push notifications for updates
 - Admin dashboard analytics and map-based issue visualization
 
-👥 Team
-Team SheBuilds – U.V. Patel College of Engineering
-- Lahar Solanki (Team Leader)
-- Muskan Isarani
-- Moksha Parikh
-- Hiral Madhu
+### 👥 Team Details
+Team: SheBuilds
+Project Name: NagarUjjwal – My Dream Clean City
+Institution: U.V. Patel College of Engineering
+| Name               | Role / Contribution                                                    | Department |
+| ------------------ | ---------------------------------------------------------------------- | ---------- |
+| **Lahar Solanki**  | Created **Role Selection**, **Login**, and **User Dashboard** pages    | IT         |
+| **Muskan Isarani** | Designed **Admin-side webpages** and prepared the **PPT presentation** | IT         |
+| **Moksha Parikh**  | Designed the **Project Poster** and worked on branding visuals         | IT         |
+| **Hiral Madhu**    | Developed **User-side Tracking** and **Report Problem** pages          | CE         |
+
